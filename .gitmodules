@@ -1,0 +1,3 @@
+[submodule "loginregistration"]
+    path = loginregistration
+    url = ./loginregistration
